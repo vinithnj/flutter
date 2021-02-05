@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415402064827",
+    "project_id": "todoapp-34bb8",
+    "storage_bucket": "todoapp-34bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415402064827:android:261361badc562ef727629e",
+        "android_client_info": {
+          "package_name": "com.xenonlabs.todos_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415402064827-uh5rj9alf1v35fka2fmdc5p94gr79l6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOQMBY2sfuXzhTXzdsA1pIRVIgF6hOj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415402064827-uh5rj9alf1v35fka2fmdc5p94gr79l6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
